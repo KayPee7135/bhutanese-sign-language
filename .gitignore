@@ -24,3 +24,6 @@ manifest.csv
 .vscode/
 Thumbs.db
 .DS_Store
+
+/collector.py
+/test_recording.py

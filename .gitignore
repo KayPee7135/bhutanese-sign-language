@@ -1,0 +1,26 @@
+# Python environments and caches
+.venv*/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Recorded data and generated training outputs
+dataset/
+runs/
+manifest.csv
+*.h5
+*.keras
+
+# Editor and operating system files
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store

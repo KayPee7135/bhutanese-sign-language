@@ -5,6 +5,7 @@ __pycache__/
 *.py[cod]
 .pytest_cache/
 
+
 # Local credentials
 .env
 .env.*
@@ -27,3 +28,4 @@ Thumbs.db
 
 /collector.py
 /test_recording.py
+*.crdownload
